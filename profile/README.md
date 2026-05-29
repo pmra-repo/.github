@@ -18,7 +18,7 @@ PMRA safeguards public health through the regulation of:
 * Pharmaceutical businesses and licensing
 * Medicine quality assurance and safety monitoring
 
-The Authority works to ensure that medicines and healthcare products available in Malawi are **safe, effective, and of high quality**. ([pmra.mw][2])
+The Authority works to ensure that medicines and healthcare products available in Malawi are **safe, effective, and of high quality**.
 
 
 ## Mission
